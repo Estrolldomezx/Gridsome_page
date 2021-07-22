@@ -8,5 +8,5 @@ module.exports = {
   siteName: 'Gridsome',
   plugins: [],
   siteUrl: 'https://Estrolldomezx.github.io',
-  pathPrefix: '/Gridsome',
+  pathPrefix: '/Gridsome_page',
 }
